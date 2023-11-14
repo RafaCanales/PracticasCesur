@@ -1,0 +1,2 @@
+este es el fichero1.txt
+Esto es una modificacion al Fichero.txt
